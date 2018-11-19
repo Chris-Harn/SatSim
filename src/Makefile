@@ -1,8 +1,8 @@
-OBJS = *.cpp
+OBJS = *.c
 
-CC = gcc -std=c++11
+CC = gcc 
 
-COMPILER_FLAGS = -Wall -Wextra -g
+COMPILER_FLAGS = -Wall -Wextra -g -Wstrict-prototypes -ansi -pedantic
 
 LINKER_FLAGS = -lSDL2
 

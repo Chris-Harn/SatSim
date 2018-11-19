@@ -1,4 +1,4 @@
-// vehicle.cpp
+/* vehicle.c */
 
 #include "vehicle.h"
 
