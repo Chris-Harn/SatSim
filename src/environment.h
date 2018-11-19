@@ -12,4 +12,6 @@ struct environment {		/* UNITS - NAME */
 };
 
 
+void initateEnvironment( struct environment currentEnv );
+
 #endif
