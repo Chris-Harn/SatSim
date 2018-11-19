@@ -2,6 +2,7 @@
 
 #include <stdio.h>
 
+#include "math.h"
 #include "vehicle.h"
 
 int main( void ) {
