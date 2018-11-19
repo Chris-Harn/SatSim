@@ -1,3 +1,0 @@
-/home/icbanmi/Documents/Projects/3DOFSim/src/CMakeFiles/rebuild_cache.dir
-/home/icbanmi/Documents/Projects/3DOFSim/src/CMakeFiles/runTests.dir
-/home/icbanmi/Documents/Projects/3DOFSim/src/CMakeFiles/edit_cache.dir
