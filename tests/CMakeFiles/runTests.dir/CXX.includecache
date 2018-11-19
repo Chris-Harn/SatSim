@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/icbanmi/Documents/Projects/3DOFSim/src/tests.cpp
+whattotest.cpp
+/home/icbanmi/Documents/Projects/3DOFSim/src/whattotest.cpp
+gtest/gtest.h
+-
+
+/home/icbanmi/Documents/Projects/3DOFSim/src/whattotest.cpp
+math.h
+-
+

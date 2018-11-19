@@ -1,0 +1,3 @@
+First write test.
+Then run 'make.'
+Then ./runTests
